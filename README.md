@@ -11,11 +11,8 @@
 
 ![Screenshot 2024-11-03 121811](https://github.com/user-attachments/assets/b2281f29-503d-4f04-8cc3-36755db3b986)
 
-![Screenshot 2024-11-03 121853](https://github.com/user-attachments/assets/fd8c0194-ee44-4c69-a9a5-464242ba1c56)
+![Screenshot 2024-11-03 121710](https://github.com/user-attachments/assets/ae4df274-5e48-418f-b89c-0e890f0b8b24)
 
-![Screenshot 2024-11-03 121918](https://github.com/user-attachments/assets/52b83365-4e42-4a2c-ab62-ee25f2dc5eb4)
-
-![Screenshot 2024-11-03 121936](https://github.com/user-attachments/assets/f292a5f9-aaaa-475c-a6c3-f0ef78aa1008)
 
 ### Installation
 
